@@ -13,8 +13,8 @@
   - Message passing
 - Java Virtual Machine
 - Basic Programming Constructs
-  - Variables
   - Data types
+  - Variables
   - Operators
   - Expressions
   - Branching
