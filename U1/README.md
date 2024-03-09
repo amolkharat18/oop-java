@@ -44,6 +44,7 @@ https://www.javatpoint.com/jvm-java-virtual-machine
 
 [Launch Binder Lab](https://mybinder.org/v2/gh/SpencerPark/ijava-binder/master?urlpath=lab)
 
+[Notebook](https://github.com/amolkharat18/oop-java/blob/main/U1/u1_basic_constructs.ipynb)
 
 
 
