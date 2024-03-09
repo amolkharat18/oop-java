@@ -22,6 +22,15 @@
 
 ## History of Java
 
-In the early 1990s, Sun Microsystems began developing Java, led by James Gosling. Originally intended for interactive televisions, Java's design goals included simplicity, portability, and security. The rise of the web shifted the focus, and Java's ability to create dynamic web content proved revolutionary. Released in 1995, Java's "write once, run anywhere" approach made it a leader in web development and later expanded to mobile apps and enterprise software.
+https://www.javatpoint.com/history-of-java
 
+## Features of Java
+
+https://itpreneurpune.com/features-of-java/
+
+## Difference between Procedural and Object-Oriented Programming
+
+https://www.geeksforgeeks.org/differences-between-procedural-and-object-oriented-programming/
+
+## Objects
 
