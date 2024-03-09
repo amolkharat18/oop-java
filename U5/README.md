@@ -1,4 +1,4 @@
-# Unit V: Exception handling and Multithreading
+# Unit V: Exception Handling and Multithreading
 - Exception handling using try, catch, finally, throw and throws
 - Multiple try and catch blocks
 - User defined exception
