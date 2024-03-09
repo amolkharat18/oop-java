@@ -22,4 +22,6 @@
 
 ## History of Java
 
-https://en.wikipedia.org/wiki/Java_(programming_language)
+In the early 1990s, Sun Microsystems began developing Java, led by James Gosling. Originally intended for interactive televisions, Java's design goals included simplicity, portability, and security. The rise of the web shifted the focus, and Java's ability to create dynamic web content proved revolutionary. Released in 1995, Java's "write once, run anywhere" approach made it a leader in web development and later expanded to mobile apps and enterprise software.
+
+
