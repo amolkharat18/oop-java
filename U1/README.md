@@ -3,22 +3,22 @@
 - History of Java
 - Features of Java
 - Difference between Procedural and Object-Oriented Programming
-- Objects
-- Class
-- Encapsulation,
-- Abstraction,
-- Inheritance,
-- Polymorphism,
-- Message passing,
-- Java Virtual Machine,
-- Basic programming constructs:
-- Variables,
-- Data types,
-- Operators,
-- Unsigned right shift operator,
-- Expressions,
-- Branching and
-- Looping.
+- OOP Concepts
+  - Objects
+  - Class
+  - Encapsulation
+  - Abstraction
+  - Inheritance
+  - Polymorphism
+  - Message passing
+- Java Virtual Machine
+- Basic Programming Constructs
+  - Variables
+  - Data types
+  - Operators
+  - Expressions
+  - Branching
+  - Looping
 
 ## History of Java
 
@@ -32,5 +32,9 @@ https://itpreneurpune.com/features-of-java/
 
 https://www.geeksforgeeks.org/differences-between-procedural-and-object-oriented-programming/
 
-## Objects
+## OOP Concepts
+
+https://www.javatpoint.com/java-oops-concepts
+
+
 
