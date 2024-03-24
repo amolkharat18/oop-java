@@ -1,5 +1,5 @@
 # Unit IV: Inheritance and Polymorphism
-- Use of Inheritance
+- Use of Inheritance (https://www.tutorialspoint.com/java/java_inheritance.htm)
   - Types of Inheritance in Java
   - Role of Constructors in inheritance
   - Use of “super” keyword
@@ -7,5 +7,5 @@
 - Polymorphism in OOP (https://www.tutorialspoint.com/java/java_polymorphism.htm)
   - Types of Polymorphism
   - Static and dynamic polymorphism
-- Interfaces
+- Interfaces (https://www.tutorialspoint.com/java/java_interfaces.htm)
   - Implementing interfaces
