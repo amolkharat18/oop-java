@@ -1,9 +1,9 @@
 # Unit IV: Inheritance and Polymorphism
 - Use of Inheritance
-- Types of Inheritance in Java
-- Role of Constructors in inheritance
-- Use of “super” keyword
-- Overriding Super Class Methods
+  - Types of Inheritance in Java
+  - Role of Constructors in inheritance
+  - Use of “super” keyword
+  - Overriding Super Class Methods
 - Polymorphism in OOP (https://www.tutorialspoint.com/java/java_polymorphism.htm)
   - Types of Polymorphism
   - Static and dynamic polymorphism
