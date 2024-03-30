@@ -1,1 +1,1 @@
-Inheritance (https://postimg.cc/06Kr9HVj)
+[Inheritance] (https://postimg.cc/06Kr9HVj)
