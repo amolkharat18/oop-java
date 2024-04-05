@@ -2,7 +2,7 @@
 - Applet and applet life cycle (https://www.geeksforgeeks.org/life-cycle-of-java-applet/)
 - creating applets (https://www.geeksforgeeks.org/java-applet-basics/)
 - graphics class functions
-- parameter passing to applet
+- parameter passing to applet (https://www.javatpoint.com/Parameter-in-applet)
 - Font and Color class
 - Event handling using event class AWT
 - working with windows
