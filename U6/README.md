@@ -1,5 +1,5 @@
 # Unit VI: GUI programming in JAVA
-- Applet and applet life cycle
+- Applet and applet life cycle (https://www.geeksforgeeks.org/life-cycle-of-java-applet/)
 - creating applets
 - graphics class functions
 - parameter passing to applet
