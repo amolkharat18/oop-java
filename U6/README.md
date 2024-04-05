@@ -1,10 +1,12 @@
 # Unit VI: GUI programming in JAVA
-- Applet and applet life cycle (https://www.geeksforgeeks.org/life-cycle-of-java-applet/)
-- creating applets (https://www.geeksforgeeks.org/java-applet-basics/)
-- graphics class functions
-- parameter passing to applet (https://www.javatpoint.com/Parameter-in-applet)
-- Font and Color class
-- Event handling using event class AWT
-- working with windows
-- using AWT controls for GUI design
-- Swing class in JAVA
+- Applet (https://www.geeksforgeeks.org/java-applet-basics/)
+  - Applet and applet life cycle (https://www.geeksforgeeks.org/life-cycle-of-java-applet/)
+  - creating applets (https://www.geeksforgeeks.org/java-applet-basics/)
+  - graphics class functions (https://docs.oracle.com/javase/8/docs/api/java/awt/Graphics.html)
+  - parameter passing to applet (https://www.javatpoint.com/Parameter-in-applet)
+- AWT (https://www.geeksforgeeks.org/java-awt-tutorial/)
+  - Font and Color class (https://www.javatpoint.com/java-font | https://www.geeksforgeeks.org/java-awt-color-class/)
+  - Event handling using event class AWT (https://www.geeksforgeeks.org/event-handling-in-java/)
+  - working with windows 
+  - using AWT controls for GUI design
+- Swing class in JAVA (https://www.geeksforgeeks.org/introduction-to-java-swing/ | https://www.javatpoint.com/java-swing)
